@@ -58,7 +58,7 @@ Providing dynamic configuration, service metadata and configuration management f
 
 ## Introduction to logical architecture and its components
 
-![nacos-logic.jpg](https://cdn.nlark.com/yuque/0/2019/png/338441/1561217775318-6e408805-18bb-4242-b4e9-83c5b929b469.png) 
+![nacos-logic.jpg](../../../../assets/logical_architecture.png) 
  
 - Service Management: Implement services CRUD, domain name CRUD, service health check, service weight management, etc.
 - Configuration Management: Implement configuration CRUD, version management, grayscale management, monitoring management, push trajectory, aggregate data, etc.
