@@ -1,5 +1,5 @@
 ---
-title: 控制台手册
+title: Console Guide
 keywords: [Nacos Console, Service Management, Configuration Management, Namespace Management, Login Management, Microservices Governance, Distributed Configuration]
 description: The Nacos console is designed to enhance microservices management, encompassing service list monitoring, health status control, traffic weight adjustment, multi-format configuration editing with version control, namespace isolation, and secure login mechanisms, streamlining service governance and configuration management while reducing operational overhead.
 ---
